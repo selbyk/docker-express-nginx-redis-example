@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>{{ title }}</h1>
+    <p>Welcome to {{ title }}!</p>
+    {{#if title}}
+        Number of hits per minute by IP
+        <li><b>ip</b>: numHits</li>
+    {{/if}}
+    {{#each hitsPerMinute}}
+        <li><b>{{this.ip}}</b>: {{this.numHits}}</li>
+    {{/each}}
+  </body>
+</html>

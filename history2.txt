@@ -1,0 +1,55 @@
+pacman -S docker
+ gpasswd -a selby docker
+ newgrp docker
+   501  docker daemon -H tcp://0.0.0.0:4243 -H unix:///var/run/docker.sock
+  502  sudo docker daemon -H tcp://0.0.0.0:4243 -H unix:///var/run/docker.sock
+  503  docker-compose build
+  504  docker-compose build
+  505  docker-compose build
+  506  docker-compose up
+  507  docker-compose up
+  508  docker-compose build
+  509  docker-compose up
+  510  npm i --save htmlbars
+  511  npm init
+  512  npm i --save htmlbars
+  513  cd app/
+  514  npm i --save htmlbars
+  515  docker-compose up
+  516  docker-compose build
+  517  docker-compose up
+  518  docker-compose up
+  519  docker-compose build
+  520  docker-compose up
+  521  docker-compose build
+  522  docker-compose up
+  523  docker-compose build
+  524  docker-compose up
+  525  docker-compose build
+  526  npm i -S express
+  527  npm i -S body-parser
+  528  atom-beta .
+  529  docker-compose build
+  530  docker-compose build
+  531  docker-compose build
+  532  docker-compose up
+  533  docker-compose build
+  534  docker-compose up
+  535  docker-compose build
+  536  docker-compose up
+  537  docker-compose build
+  538  docker-compose up
+  539  docker-compose up
+  540  docker-compose build
+  541  konsole &
+  542  docker-compose up
+  543  docker-compose up
+  544  docker-compose build
+  545  docker-compose up
+  546  e
+  547  export INTERNAL_SECRET=secretlol
+  548  docker-compose build
+  549  docker-compose up
+  550* docker-compose build
+  551  docker-compose up
+  552  history >> history2.txt

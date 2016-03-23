@@ -1,0 +1,79 @@
+  516   cd /home/selby/projects
+  517  git clone git@github.com:b00giZm/docker-compose-nodejs-examples.git
+  518  cd docker-compose-nodejs-examples/
+  519  cd 04-express-grunt-watch/
+  520  ls cd
+  521  atom-beta .
+  522  yaourt docker
+  523  docker build -t web .
+  524  yaourt docker
+  525  docker build -t web .
+  526  sudo systemctl start docker
+  527  docker build -t web .
+  528  sudo pacman -S docker
+  529  sudo systemctl start docker
+  530  docker build -t web .
+  531  yaourt -S docker-git
+  532   sudo chkconfig docker on
+  533  yaourt panamax
+  534  curl http://download.panamax.io/installer/ubuntu.sh | bash
+  535  sudo pacman -S vagrant
+  536  curl http://download.panamax.io/installer/ubuntu.sh | bash
+  537  sudo pacman -S virtualbox
+  538  curl http://download.panamax.io/installer/ubuntu.sh >> install-panamax.sh
+  539  bash install-panamax.sh
+  540   cd /home/selby/projects
+  541   cd /home/selby
+  542   cd '/home/selby/VirtualBox VMs'
+  543   cd /home/selby/projects/docker-compose-nodejs-examples/04-express-grunt-watch
+  544  panamax
+  545  bash -x ~/.panamax/desktop init 2>&1 | tail -n 5
+  546  bash -x ~/.panamax/desktop init 2>&1 | tail -n 10
+  547  bash -x ~/.panamax/desktop init 2>&1 | tail
+  548  panamax
+  549  sudo panamax
+  550  panamax
+  551  panamax init
+  552  panamax
+  553  sudo bash install-panamax.sh
+  554  pacman -R panamax
+  555  sudo pacman -R panamax
+  556  yaourt panamax
+  557  sudo systemctl status vboxweb.service
+  558  sudo systemctl status vboxdrv
+  559  sudo systemctl start vboxdrv
+  560  modprobe vboxdrv vboxnetadp vboxnetflt  vboxpci
+  561  sudo modprobe vboxdrv vboxnetadp vboxnetflt  vboxpci
+  562  panamax
+  563  bash install-panamax.sh
+  564  sudo modprobe vboxnetctl
+  565  yaourt virtualbox-ext-oracle
+  566  bash install-panamax.sh
+  567  panamax
+  568  bash install-panamax.sh
+  569  bash install-panamax.sh
+  570  sudo modprobe vboxnetctl
+  571  vBoxManage extpack install
+  572  VBoxManage extpack install
+  573  VBoxManage extpack install vboxctl
+  574  sudo systemctl enable vboxservice
+  575  panamax init
+  576  panamax up
+  577  yaourt docker-machine
+  578  docker-machine create --driver virtualbox default
+  579   curl http://download.panamax.io/installer/ubuntu.sh | bash
+  580  panamax
+  581   curl http://download.panamax.io/installer/ubuntu.sh | bash
+  582  vagrant plugin install vagrant-vbguest vagrant-share
+  583   curl http://download.panamax.io/installer/ubuntu.sh | bash
+  584   curl http://download.panamax.io/installer/ubuntu.sh | bash
+  585  panamax
+  586  yaourt net-tools
+  587  sudo modprobe vboxnetadp vboxnetflt
+  588   curl http://download.panamax.io/installer/ubuntu.sh | bash
+  589  sudo modprode vboxdrv
+  590  sudo modprobe vboxdrv
+  591   curl http://download.panamax.io/installer/ubuntu.sh | bash
+  592  sudo vboxreload
+  593   curl http://download.panamax.io/installer/ubuntu.sh | bash
+  594  history >> history.sh
